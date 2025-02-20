@@ -1,6 +1,6 @@
-<h1>Hi 👋 My name is Nandha Kumar</h1>
+<h1>Hello 👋 My name is Nandha Kumar</h1>
 
-Senior Engineer with predominat skills in backend development and expertise in front-end.
+Experienced software engineer driving business growth in enterprise software
 
 🌱 I have huge interest in building apps with AI capability end-to-end ensuring availability, scalability, security, data-consistency, fault-tolerant.
 
