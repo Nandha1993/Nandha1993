@@ -1,8 +1,10 @@
 <h1>Hello 👋 My name is Nandha Kumar</h1>
 
-Experienced software engineer driving business growth in enterprise software
+Experienced software engineer driving business growth and technical excellence in enterprise software.
 
-🌱 I have huge interest in building apps with AI capability end-to-end ensuring availability, scalability, security, data-consistency, fault-tolerant.
+Buidling modern-day apps with AI capability meeting distributed system trade-offs (availability, performance, scalability, security, data-consistency, fault-tolerance).
+
+🌱 I have huge interest in backend development leveraging architectural patterns and best practices. 
 
 ### 🛠 Tech Stack
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
