@@ -1,8 +1,9 @@
 <h1>Hello 👋 My name is Nandha Kumar</h1>
+<h2>Cloud Native App Engineer || AI/ML Engineer </h2>
 
 Engineer with 10 years of experience in building enterprise large scale applications
 
-Buidling modern-day apps with AI capability meeting distributed system trade-offs (availability, consistency, latency, scalability, reliability).
+Buidling modern-day apps with AI capability meeting distributed system trade-offs (availability, scalability, consistency, reliability, latency).
 
 🌱 I have huge interest in backend development leveraging architectural patterns and best practices. 
 
