@@ -1,6 +1,6 @@
 <h1>Hello 👋 My name is Nandha Kumar</h1>
 
-Engineer with 10 years of work experience in building enterprise large scale applications
+Engineer with 10 years of experience in building enterprise large scale applications
 
 Buidling modern-day apps with AI capability meeting distributed system trade-offs (availability, consistency, latency, scalability, reliability).
 
