@@ -1,8 +1,8 @@
 <h1>Hello 👋 My name is Nandha Kumar</h1>
 
-Experienced software engineer driving business growth and technical excellence in enterprise software.
+Engineer with 10 years of work experience in building enterprise large scale applications
 
-Buidling modern-day apps with AI capability meeting distributed system trade-offs (availability, performance, scalability, security, data-consistency, fault-tolerance).
+Buidling modern-day apps with AI capability meeting distributed system trade-offs (availability, consistency, latency, scalability, reliability).
 
 🌱 I have huge interest in backend development leveraging architectural patterns and best practices. 
 
